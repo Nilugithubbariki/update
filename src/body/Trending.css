@@ -1,0 +1,103 @@
+/* body {
+  margin: 0px;
+}
+.srcStyle {
+  width: 200px;
+  margin: auto;
+}
+.line {
+  border-bottom: 1px solid black;
+}
+.featuredInc {
+  margin-top: 70px;
+}
+.center {
+  text-align: center;
+}
+.MainCardWrapperStyle {
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.srcstyle {
+  width: 170px;
+  margin: auto;
+}
+.srStyle {
+  width: 170px;
+  margin: auto;
+}
+@media (max-width: 600px) {
+  .srStyle {
+    margin: auto;
+    width: 60px;
+  }
+  .srcstyle {
+    width: 111px;
+    margin: auto;
+  }
+} */
+body {
+  margin: 0px;
+}
+.secondimageStyle {
+  width: 193px;
+  margin: auto;
+}
+.sliderThreeOnle {
+  margin-left: 115px;
+  width: 1105px;
+}
+.thirdImageStyle {
+  width: 197px;
+  border-radius: 10px;
+}
+.slidertwoOnly {
+  width: 1133px;
+}
+.sideCard {
+  order: 1px solid #f6e4e4;
+  width: 195px;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px 1px #f3f3f3;
+}
+.buyNowStyle {
+  margin-top: -24px;
+}
+.MainCardWrapperStyle {
+  background: linear-gradient(to right, #eaa679, #eaeff005);
+}
+@media (max-width: 768px) {
+  .MainCardWrapperStyle {
+    width: 1326px;
+  }
+  .secondimageStyle {
+    width: 100px;
+    margin: auto;
+  }
+  .sliderThreeOnle {
+    margin-left: 81px;
+  }
+  .secondimageStyle {
+    width: 190px;
+  }
+  .thirdImageStyle {
+    width: 190px;
+  }
+}
+@media (max-width: 412px) {
+  .MainCardWrapperStyle {
+    width: 145vh;
+  }
+  .secondimageStyle {
+    width: 190px;
+    margin: auto;
+  }
+  .sliderThreeOnle {
+    margin-left: 110px;
+  }
+  .thirdImageStyle {
+    width: 190px;
+    margin: auto;
+  }
+}

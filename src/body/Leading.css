@@ -1,0 +1,378 @@
+/* body {
+  margin: 0px;
+}
+.leadStyle {
+  text-align: center;
+  margin-top: 50px;
+}
+.logoimageStyle {
+  width: 100px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 71px;
+}
+.knowledge {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.btnStyle {
+  border: 1px solid violet;
+  height: 30px;
+  border-radius: 10px;
+  width: 102px;
+  background: white;
+}
+.userStyle {
+  height: 200px;
+  text-align: center;
+  color: white;
+  border: 1px solid black;
+  background: black;
+  opacity: 0.4;
+}
+.div {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.leftdiv {
+  width: 450px;
+  border-radius: 10px;
+  background: #e06961;
+  padding: 20px;
+}
+.rightdiv {
+  width: 450px;
+  border-radius: 10px;
+  background: #ffeb3b;
+  padding: 20px;
+}
+.latestBlog {
+  text-align: center;
+  margin-top: 40px;
+}
+.fotStyle {
+  width: 50px;
+}
+.book {
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, #badcf7, #eef1f1);
+  align-items: center;
+  border-radius: 14px;
+}
+.foterline {
+  margin-top: 40px;
+  margin-top: 40px;
+  width: 977px;
+  margin-left: 142px;
+  border-radius: 14px;
+}
+.footunlimitedStyle {
+  text-align: center;
+}
+.courselogo {
+  width: 50px;
+}
+.divimage {
+  display: flex;
+  justify-content: space-around;
+}
+.blocgStyle {
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+@media (max-width: 600px) {
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    margin-left: -14px;
+  }
+  .leadStyle {
+    text-align: center;
+    margin-top: 50px;
+    width: 425px;
+    margin-left: 100px;
+  }
+  .leftStyle {
+    width: 195px;
+    height: 139px;
+    margin-top: 45px;
+  }
+  .div {
+    margin-left: 15px;
+    width: 562px;
+    height: 168px;
+  }
+  .book {
+    width: 573px;
+    margin-left: -119px;
+  }
+} */
+body {
+  margin: 0px;
+}
+.btnStyle {
+  border: 2px solid violet;
+  height: 30px;
+  border-radius: 10px;
+  width: 102px;
+  background: white;
+}
+.courselogo {
+  width: 43px;
+  border-radius: 5px;
+  background: white;
+}
+.fotStyle {
+  width: 50px;
+  border-radius: 50%;
+}
+.book {
+  display: flex;
+  align-items: center;
+  gap: 319px;
+  margin-left: 110px;
+  margin-top: 2px;
+}
+.courseStyle {
+  margin-top: -32px;
+  margin-left: 46px;
+}
+.foterline {
+  width: 991px;
+  border-radius: 10px;
+  height: 59px;
+  align-items: center;
+  margin-left: 158px;
+  background: linear-gradient(to right, #badcf7, #eef1f1);
+  margin-top: 73px;
+}
+.divimage {
+  display: flex;
+  justify-content: space-around;
+}
+.leadStyle {
+  text-align: center;
+  margin-top: 50px;
+}
+.knowledge {
+  background: linear-gradient(to right, #e1f1f3, #eaa679);
+  height: 426px;
+  margin-top: 30px;
+}
+.div {
+  display: flex;
+  gap: 33px;
+  margin-top: 201px;
+  align-items: center;
+  justify-content: center;
+}
+.messegBox {
+  border: 1px solid #efe9e9;
+  width: 591px;
+  height: 274px;
+  margin-left: 321px;
+  margin-top: -144px;
+  position: absolute;
+  border-radius: 35px;
+  background: white;
+}
+.bobuttondisplay {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 14px;
+}
+.leftbottom {
+  border: 1px solid white;
+  background: white;
+  color: black;
+  text-align: center;
+  padding: 4px;
+}
+.leftstudyimageStyle {
+  width: 111px;
+  margin-left: -160px;
+  border-radius: 10px;
+}
+.rightstudyimageStyle {
+  width: 123px;
+  margin-left: -170px;
+  border-radius: 10px;
+}
+.lastImageStyle {
+  width: 195px;
+  border-radius: 10px;
+}
+.sliderlastOnly {
+  width: 1039px;
+  margin-left: 155px;
+}
+.messegeimageStyle {
+  width: 50px;
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 50px;
+}
+.rightbottom {
+  border: 1px solid white;
+  background: white;
+  color: black;
+  text-align: center;
+  padding: 4px;
+}
+.childmessegBox {
+  color: white;
+  border: 1px solid #efe9e9;
+  height: 193px;
+  border-radius: 49px;
+  width: 10p;
+  margin-left: 7px;
+  margin-right: 7px;
+  background: linear-gradient(to right, #7c7875, #bcbebe);
+  margin-top: 5px;
+  text-align: center;
+  padding: 35px;
+}
+.leftdiv {
+  width: 460px;
+  border-radius: 20px;
+  padding: 20px;
+  height: 111px;
+  background: #fc589a;
+}
+.rightdiv {
+  width: 460px;
+  border-radius: 20px;
+  padding: 20px;
+  height: 111px;
+  background: #f3f37f;
+}
+.footerimageStyle {
+  position: relative;
+  background-color: #000;
+}
+
+.footerimageStyle::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  opacity: 0.8;
+  background: url("https://e0.pxfuel.com/wallpapers/815/216/desktop-wallpaper-boys-studying-haikyuu-studying-anime-thumbnail.jpg")
+    no-repeat center center;
+  background-size: cover;
+}
+
+.userStyle {
+  position: relative;
+  width: 100%;
+  height: 600px;
+}
+.logoimageStyle {
+  width: 50px;
+}
+.latestBlog {
+  text-align: center;
+  background: linear-gradient(to right, #eaa679, #eaeff005);
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 25px;
+}
+.imagethreeStyle {
+  margin-left: 103px;
+  margin-top: 45px;
+  height: 262px;
+  width: 368px;
+}
+.contentStyle {
+  margin-left: 564px;
+  margin-top: -253px;
+}
+.userStyle {
+  text-align: center;
+  border: 1px solid black;
+  height: 370px;
+  background: black;
+  opacity: 0.7;
+  color: white;
+}
+@media (max-width: 768px) {
+  .leadStyle {
+    text-align: center;
+    width: 1406px;
+    margin-left: -80px;
+  }
+  .foterline {
+    margin-left: 154px;
+  }
+  .latestBlog {
+    width: 1326px;
+  }
+  .knowledge {
+    width: 1326px;
+    height: 480px;
+  }
+  .logo {
+    margin-left: 90px;
+  }
+  .div {
+    display: flex;
+    gap: 37px;
+    margin-top: 174px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 6px;
+    width: 1202px;
+  }
+  .contentStyle {
+    margin-top: -285px;
+    width: 311px;
+  }
+  .imagethreeStyle {
+    margin-left: 74px;
+  }
+  .userStyle {
+    width: 1326px;
+  }
+  .footerimageStyle {
+    width: 1326px;
+  }
+  .messegBox {
+    border: 1px solid black;
+    width: 746px;
+    height: 274px;
+    margin-left: 242px;
+    margin-top: -152px;
+    position: absolute;
+    border-radius: 35px;
+    background: white;
+  }
+}
+@media (max-width: 412px) {
+  .knowledge {
+    width: 145vh;
+  }
+  .footerimageStyle {
+    width: 1326px;
+  }
+  .userStyle {
+    width: 145vh;
+  }
+  .latestBlog {
+    width: 145vh;
+  }
+}

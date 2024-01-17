@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+}
+.Mainwrap {
+  display: flex;
+  justify-content: space-around;
+}
+.leftLogoStyle {
+  width: 50px;
+}
+.navimageStyle {
+  height: 236px;
+  width: 605px;
+  margin-top: 10px;
+}
+.rightLogoStyle {
+  width: 50px;
+  border: 1px solid black;
+  padding: 0px;
+  border-radius: 50%;
+  width: 50px;
+}
+.pageStyle {
+  display: flex;
+  gap: 40px;
+  text-decoration: none;
+  margin-top: 11px;
+}
+.listStyle {
+  text-decoration: none;
+}
+.navContainer {
+  width: 100%;
+  height: 500px;
+  background: linear-gradient(to right, #eaa679, #e1f1f3);
+}
+.flexWrap {
+  display: flex;
+  justify-content: space-around;
+}
+.inputStyle {
+  border: none;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+.searchStyle {
+  width: 269px;
+  border-radius: 16px;
+  height: 40px;
+  background: white;
+}
+.arrowStyle {
+  border: 1px solid red;
+  margin-left: 239px;
+  margin-top: 6px;
+  border-radius: 50%;
+  position: absolute;
+  background: red;
+  color: white;
+  height: 24px;
+}
+.valueStyle {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.pStyle {
+  margin-top: 39px;
+  margin-left: -20px;
+}
+.searchIconStyle {
+  color: red;
+  position: absolute;
+  margin-top: 10px;
+}
+.starStyle {
+  color: orange;
+}
+.mainstarStyle {
+  display: flex;
+}
+.childStarStyle {
+  margin-left: 26px;
+  margin-top: 10px;
+}
+.rightImageStyle {
+  width: 360px;
+  height: 300px;
+}
+.leftContent {
+  margin-top: 60px;
+  margin-left: -16px;
+}
+.rightContent {
+  margin-top: 60px;
+}
+.oneStyle {
+  width: 71px;
+  border-radius: 50%;
+}
+.childCard {
+  width: 200px;
+  border-radius: 5px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  align-items: center;
+  box-shadow: 1px 1px 1px 1px #dbd7d7;
+}
+.cardStyle {
+  display: flex;
+  gap: 10px;
+  justify-content: space-evenly;
+  height: 50px;
+  margin-top: -37px;
+}

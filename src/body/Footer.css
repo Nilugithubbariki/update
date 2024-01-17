@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+ul {
+  display: flex;
+  gap: 21px;
+  justify-content: space-between;
+}
+.lastContainer > ul > li {
+  list-style: none;
+}
+ol > li {
+  line-height: 40px;
+}
+.wrap {
+  background: #ff5346;
+  margin-top: -16px;
+}
+.submitStyle {
+  margin-left: -87px;
+  width: 79px;
+  border-radius: 10px;
+  background: #ff5346;
+  border: none;
+  height: 27px;
+}
+@media (max-width: 768px) {
+  .wrap {
+    width: 1326px;
+  }
+}
+@media (max-width: 480px) {
+  .lastContainer > ul {
+    margin-left: -25px;
+    gap: 5px;
+  }
+  .wrap {
+    width: 145vh;
+  }
+}
